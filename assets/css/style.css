@@ -530,7 +530,7 @@ section {
 # Portfolio
 --------------------------------------------------------------*/
 .portfolio .portfolio-item {
-  margin-bottom: 30px;
+  margin: 0px;
 }
 
 .portfolio #portfolio-flters {
@@ -735,6 +735,7 @@ section {
 }
 
 .portfolio-details .portfolio-description {
+  text-align: justify;
   padding-top: 30px;
 }
 
