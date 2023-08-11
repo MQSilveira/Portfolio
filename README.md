@@ -1,5 +1,4 @@
-### Página Pessoal
+### Personal Page
+This repository contains a page where you can find information about me and my work.
 
-Este repositório contém uma página onde você pode encontrar informações sobre mim e meus trabalhos.
-
-Para visualizar a página pessoal, basta acessar esse [link](https://mqsilveira.github.io/Portfolio/).
+To view the personal page, just go to this [link](https://mqsilveira.github.io/Portfolio/).
